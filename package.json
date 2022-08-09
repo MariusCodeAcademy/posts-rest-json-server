@@ -1,0 +1,23 @@
+{
+  "name": "posts-rest-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server db/db.json --watch --port 8001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariusCodeAcademy/posts-rest-json-server.git"
+  },
+  "keywords": [],
+  "author": "Marius K. <Marius@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariusCodeAcademy/posts-rest-json-server/issues"
+  },
+  "homepage": "https://github.com/MariusCodeAcademy/posts-rest-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
