@@ -1,0 +1,8 @@
+{
+  "userId": 9,
+  "image": "https://github.com/MariusCodeAcademy/posts-rest-json-server/blob/main/assets/html.jpg?raw=true",
+  "title": "What is HTML?",
+  "body": "HTML is a programming language that stands for Hypertext Markup Language. This is a relatively simplistic yet powerful programming language that allows web developers and website owners to create the structure of their websites. If you want a sentence in a blog post to receive a bold font, HTML could be used to achieve this. When using this system, any text files can be tagged for effects, graphics, fonts, or colors. If you've never used any kind of programming language in the past, HTML would be a great place to start. Keep in mind that HTML markups are enhanced by CSS and JavaScript, which is why it's recommended that you learn this programming language first.",
+  "tags": ["front-end", "web-development"],
+  "reactions": 2
+}
