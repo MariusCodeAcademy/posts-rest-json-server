@@ -61,5 +61,11 @@
       "tags": ["web", "front end", "html"],
       "id": 8
     }
+  ],
+  "users": [
+    { "id": 1, "name": "John", "age": 24, "town": "London" },
+    { "id": 2, "name": "Jill", "age": 34, "town": "Dublin" },
+    { "id": 3, "name": "Mike", "age": 31, "town": "Capetown" },
+    { "id": 4, "name": "Serbentautas", "age": 18, "town": "Neveronys" }
   ]
 }
