@@ -44,6 +44,22 @@
       "userId": 41,
       "tags": ["crime", "mystery", "love"],
       "reactions": 2
+    },
+    {
+      "title": "My first Post",
+      "reactions": 10,
+      "userId": 15,
+      "body": "Something about My first Post",
+      "tags": ["web", "front end", "html"],
+      "id": 6
+    },
+    {
+      "title": "My second Post",
+      "reactions": 10,
+      "userId": 15,
+      "body": "Something about My second Post",
+      "tags": ["web", "front end", "html"],
+      "id": 8
     }
   ]
 }
