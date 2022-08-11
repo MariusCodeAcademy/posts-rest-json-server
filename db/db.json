@@ -63,9 +63,61 @@
     }
   ],
   "users": [
-    { "id": 1, "name": "John", "age": 24, "town": "London" },
-    { "id": 2, "name": "Jill", "age": 34, "town": "Dublin" },
-    { "id": 3, "name": "Mike", "age": 31, "town": "Capetown" },
-    { "id": 4, "name": "Serbentautas", "age": 18, "town": "Neveronys" }
+    {
+      "name": "John Bond",
+      "town": "London",
+      "age": "29",
+      "id": 1,
+      "archived": false
+    },
+    {
+      "name": "Jill Krown",
+      "town": "Dublin",
+      "age": "34",
+      "id": 2,
+      "archived": false
+    },
+    {
+      "id": 3,
+      "name": "Mike",
+      "age": 31,
+      "town": "Capetown",
+      "archived": false
+    },
+    {
+      "id": 4,
+      "name": "Serbentautas",
+      "age": 18,
+      "town": "Neveronys",
+      "archived": false
+    },
+    {
+      "name": "Serbentautas Bordiuras",
+      "age": 18,
+      "town": "Neveronys",
+      "id": 5,
+      "archived": false
+    },
+    {
+      "name": "Serbentautas Bordiuras",
+      "town": "Serbija",
+      "age": 35,
+      "id": 6,
+      "archived": false
+    },
+    {
+      "name": "Serbentautas",
+      "age": 18,
+      "town": "Neveronys",
+      "id": 7,
+      "archived": false
+    },
+    {
+      "name": "Lenteja",
+      "town": "Neveronys",
+      "age": "25",
+      "id": 8,
+      "archived": false
+    }
   ]
 }
