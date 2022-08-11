@@ -1,0 +1,55 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "name": "John Bond",
+      "town": "London",
+      "age": "29",
+      "id": 1,
+      "archived": false
+    },
+    {
+      "name": "Jill Krown",
+      "town": "Dublin",
+      "age": "34",
+      "id": 2,
+      "archived": false
+    },
+    {
+      "id": 3,
+      "name": "Mike",
+      "age": 31,
+      "town": "Capetown"
+    },
+    {
+      "id": 4,
+      "name": "Serbentautas",
+      "age": 18,
+      "town": "Neveronys"
+    },
+    {
+      "name": "Serbentautas Bordiuras",
+      "age": 18,
+      "town": "Neveronys",
+      "id": 5
+    },
+    {
+      "name": "Serbentautas Bordiuras",
+      "town": "Serbija",
+      "age": 35,
+      "id": 6
+    },
+    {
+      "name": "Serbentautas",
+      "age": 18,
+      "town": "Neveronys",
+      "id": 7
+    },
+    {
+      "name": "Lenteja",
+      "town": "Neveronys",
+      "age": "25",
+      "id": 8
+    }
+  ]
+}
