@@ -53,7 +53,7 @@
     {
       "title": "My first Post",
       "reactions": 10,
-      "archived": false,
+      "archived": true,
       "userId": 15,
       "body": "Something about My first Post",
       "tags": ["web", "front end", "html"],
@@ -62,7 +62,7 @@
     {
       "title": "My second Post",
       "reactions": 10,
-      "archived": false,
+      "archived": true,
       "userId": 15,
       "body": "Something about My second Post",
       "tags": ["web", "front end", "html"],
@@ -142,6 +142,22 @@
       "age": "35",
       "archived": false,
       "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "Cool article!!! about html",
+      "date": "2015-07-01T00:00:00",
+      "author": "John Smith",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "text": "great info about css",
+      "date": "2015-07-01T00:00:00",
+      "author": "Jill Smith",
+      "postId": 3
     }
   ]
 }
